@@ -28,6 +28,9 @@ The user details page allows the user to view and edit their own details. The de
 # Mobile Responsiveness
 The project has been designed to be mobile responsive and should display correctly on a variety of mobile devices.
 
+# Deployed Application 
+https://lendsqr-fe-test-haszankauna.vercel.app/
+
 # License
 This project is licensed under the MIT License.
 
